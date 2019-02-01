@@ -1,2 +1,2 @@
-# OpenChain
-OpenChain: a BlockChain-based Cloud
+#CloudChain
+CloudChain: a BlockChain-based Cloud
